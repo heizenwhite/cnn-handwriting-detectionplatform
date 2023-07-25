@@ -2,12 +2,6 @@
 
 This is the repo for working on our AI in education project for the Next-gen Hackathon.
 
-## Team Members
-
-- Ilyas ZIANI
-- Mohamed El Bachir LAHOUIRI
-- Adam Serghini
-
 ## Project Description
 
 ### Convolutional Neural Network (CNN)
