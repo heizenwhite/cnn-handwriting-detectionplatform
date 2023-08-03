@@ -1,4 +1,4 @@
-# Team3: EduAIgorithms
+# AIgorithms
 
 This is the repo for working on our AI in education project for the Next-gen Hackathon.
 
