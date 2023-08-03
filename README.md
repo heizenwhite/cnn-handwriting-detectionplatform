@@ -40,8 +40,8 @@ python model.py
 The model is not yet trained completely, so it is not ready to be used. However, once it is trained, you will be able to use it by running the following command:
 
 ```bash
-python predict.py <path_to_image>
+no command yet 
 ```
 
-The `<path_to_image>` is the path to the image you want to predict. The image should be a PNG image with a white background and black text. The image should also be 28x28 pixels.
+TBA, the idea is uploading an image through a UI which sends it directly to the trained model which returns it as a text.
 
