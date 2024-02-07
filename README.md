@@ -1,12 +1,8 @@
-# AIgorithms
-
-This is the repo for working on our AI in education project for the Next-gen Hackathon.
-
 ## Project Description
 
 ### Convolutional Neural Network (CNN)
 
-Our project is about using AI to help teachers evaluate essays and give feedback to students. We are using the [Kaggle Handwriting Recognition Dataset](https://www.kaggle.com/datasets/landlord/handwriting-recognition) to train our model.
+My project is about using AI to help teachers evaluate essays and give feedback to students. We are using the [Kaggle Handwriting Recognition Dataset](https://www.kaggle.com/datasets/landlord/handwriting-recognition) to train our model.
 
 The model is yet to be trained completely, 3 iterations out of 1000 have been done so far for time constraint, and the results are noticed (See screenshot below). We are still working on it.
 ![Alt text](image.png)
