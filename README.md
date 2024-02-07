@@ -41,3 +41,4 @@ no command yet
 
 TBA, the idea is uploading an image through a UI which sends it directly to the trained model which returns it as a text.
 
+Edit: will commit it someday smh.
